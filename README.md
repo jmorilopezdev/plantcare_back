@@ -14,4 +14,6 @@ To start the application, the following steps must be taken:
 
 When you run the application, it will run in your browser at the following address "https://localhost:7066/", by default the application will show the page at the address "https://localhost:7066/swagger/index.html", on this page you can view, document and test the implemented APIs without the need for a client.
 
+Additionally, unit tests will be implemented to validate the implemented API methods and certify their functionality.
+
 Keep the application running during testing with the frontend application.
